@@ -1,0 +1,25 @@
+{
+  "name": "dungeon-2.5d",
+  "version": "0.0.0",
+  "description": "dungeon generator with CSS animations and perspective",
+  "author": "semibran (Brandon Semilla)",
+  "repository": "semibran/dungeon-2.5d",
+  "license": "MIT",
+  "main": "src/index.js",
+  "keywords": [],
+  "devDependencies": {
+    "autoprefixer": "^9.3.1",
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "clean-css-cli": "^4.2.1",
+    "gh-pages": "^2.0.1",
+    "html-minifier": "^3.5.21",
+    "node-sass": "^4.10.0",
+    "postcss-cli": "^6.0.1",
+    "rollup": "^0.67.0",
+    "rollup-plugin-commonjs": "^9.2.0",
+    "rollup-plugin-json": "^3.1.0",
+    "rollup-plugin-node-resolve": "^3.4.0",
+    "uglify-js": "^3.4.9"
+  }
+}
